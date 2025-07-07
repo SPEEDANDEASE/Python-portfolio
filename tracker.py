@@ -1,4 +1,3 @@
-Delete tracker.py
 from datetime import datetime
 
 def add_expense(categories):
