@@ -1,0 +1,13 @@
+ Student Management System (Python CLI)
+
+This is a simple Student Database & Grading System** built in Python.  
+It uses functions, loops, lists, dictionaries, and modules — perfect for showcasing your beginner-to-intermediate Python skills!
+
+Features
+
+- Add new students with unique IDs.
+- Assign multiple subjects, scores, and auto-grade each.
+- View all students and their report cards.
+- Search for a student by ID.
+
+
